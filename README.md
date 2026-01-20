@@ -11,8 +11,8 @@
   - [BURS 2024](https://repository.belmont.edu/burs/359/)
 
 ## Projects
-- [School Directory Project](https://github.com/Emrose-1341/School-Directory-project)
-  - 
+- [Web application/systen - School Directory](https://github.com/Emrose-1341/School-Directory-project)
+  - PHP development, web security[groups, password hashing], RBAC, session managment, file handling, apache configuration, html
 - [Internship Work](https://github.com/Emrose-1341/Data-Analytics-Internship)
 - [EEG research](https://github.com/Emrose-1341/EEG-Data) 
 
