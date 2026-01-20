@@ -12,8 +12,21 @@
 
 ## Projects
 - [Web application/systen - School Directory](https://github.com/Emrose-1341/School-Directory-project)
-  - Skills: PHP development, web security (*groups, password hashing*), RBAC, session managment, file handling, apache configuration, html
+  - **Skills:**
+     - [PHP development](
+     - web security (*groups, password hashing*),
+     - RBAC
+     - session managment
+     - file handling
+     -  apache configuration
+     -  html
 - [Data Analytics Internship](https://github.com/Emrose-1341/Data-Analytics-Internship)
-  - Skills: Python, EDA, modeling, predictive analytics, data visualation, reporting
+  - **Skills:**
+    - Python:[DCS](https://github.com/Emrose-1341/Data-Analytics-Internship/tree/DCS/Code), [NYPD](https://github.com/Emrose-1341/Data-Analytics-Internship/tree/NYPD/Code)
+    -  EDA: [DCS](https://github.com/Emrose-1341/Data-Analytics-Internship/blob/DCS/Code/new_initial_analysis.ipynb), [NYPD](https://github.com/Emrose-1341/Data-Analytics-Internship/blob/NYPD/Code/model_predictor_outcome.ipynb)
+    -  modeling: See Code folder in both branches
+    -  predictive analytics
+    -  data visualation: See reports, embeded figures and visuall focused code 
+    -  reporting: See major reports in both branches
 - [EEG research](https://github.com/Emrose-1341/EEG-Data) 
 
