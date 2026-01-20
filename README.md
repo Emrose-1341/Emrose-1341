@@ -11,5 +11,6 @@
   - [BURS 2024](https://repository.belmont.edu/burs/359/)
 
 ## Projects
+- [School Directory Project](https://github.com/Emrose-1341/School-Directory-project)
 - 
 
