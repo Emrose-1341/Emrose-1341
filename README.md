@@ -12,5 +12,6 @@
 
 ## Projects
 - [School Directory Project](https://github.com/Emrose-1341/School-Directory-project)
+- [Internship Work](https://github.com/Emrose-1341/Data-Analytics-Internship)
 - 
 
