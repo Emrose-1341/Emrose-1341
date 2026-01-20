@@ -12,7 +12,8 @@
 
 ## Projects
 - [Web application/systen - School Directory](https://github.com/Emrose-1341/School-Directory-project)
-  - PHP development, web security[groups, password hashing], RBAC, session managment, file handling, apache configuration, html
-- [Internship Work](https://github.com/Emrose-1341/Data-Analytics-Internship)
+  - Skills: PHP development, web security (*groups, password hashing*), RBAC, session managment, file handling, apache configuration, html
+- [Data Analytics Internship](https://github.com/Emrose-1341/Data-Analytics-Internship)
+  - Skills: Python, EDA, modeling, predictive analytics, data visualation, reporting
 - [EEG research](https://github.com/Emrose-1341/EEG-Data) 
 
