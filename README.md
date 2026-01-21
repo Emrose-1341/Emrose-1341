@@ -94,4 +94,4 @@
 ### 3. [EEG Research Projects](https://github.com/Emrose-1341/EEG-Data)
 - Research programming and analysis of EEG datasets  
 - Data preprocessing, visualization, and experimental workflow
-- Learning matlab
+- Learning [matlab](https://github.com/Emrose-1341/learning-journal/blob/main/matlab/MatLab_certificate.pdf)
